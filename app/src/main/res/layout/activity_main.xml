@@ -13,4 +13,12 @@
         android:text="Button"
         tools:layout_editor_absoluteX="174dp"
         tools:layout_editor_absoluteY="191dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="227dp"
+        android:layout_height="250dp"
+        app:srcCompat="@android:drawable/btn_star_big_on"
+        tools:layout_editor_absoluteX="122dp"
+        tools:layout_editor_absoluteY="318dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
