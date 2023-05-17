@@ -19,6 +19,14 @@
         android:layout_width="227dp"
         android:layout_height="250dp"
         app:srcCompat="@android:drawable/btn_star_big_on"
-        tools:layout_editor_absoluteX="122dp"
-        tools:layout_editor_absoluteY="318dp" />
+        tools:layout_editor_absoluteX="126dp"
+        tools:layout_editor_absoluteY="336dp" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Switch"
+        tools:layout_editor_absoluteX="194dp"
+        tools:layout_editor_absoluteY="102dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
